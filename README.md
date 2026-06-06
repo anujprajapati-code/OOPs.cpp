@@ -1,7 +1,4 @@
-# OOPs.cpp
-Got it — let’s make your README polished and professional, the kind of document a **B.Tech scholar** would showcase on GitHub to highlight academic and technical credibility. Here’s a refined version:
-
-```markdown
+```
 # OOPS.CPP
 
 ## 📖 Project Overview
@@ -74,9 +71,3 @@ You are free to use, modify, and distribute this code with proper attribution.
 ## 👨‍💻 Author
 Developed and maintained by **Anuj**  
 > *For academic enrichment and practical learning in Object-Oriented Programming with C++.*
-
-```
-
-This version is structured like a **professional academic project repo** — clear, concise, and tailored for a B.Tech scholar’s GitHub portfolio.  
-
-Would you like me to also add a **“Sample Programs” section** with short code snippets (like a class definition or inheritance example) so the README itself demonstrates the repository’s content? That often impresses professors and recruiters.
